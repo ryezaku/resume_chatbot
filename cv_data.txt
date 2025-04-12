@@ -1,0 +1,161 @@
+Mohammad Haziq
++6016-9065378 | haziq.fadhil92@gmail.com
+Notice Period: 2 Months
+Kuala Lumpur, Malaysia
+Professional Summary
+Experienced and results-oriented Senior Software Developer / AI Engineer with 5+ years of
+hands-on expertise building intelligent systems across computer vision, natural language processing
+(NLP), and machine learning. Proven ability to lead full-cycle AI product development — from
+ideation and dataset design to deployment and post-deployment performance monitoring. Skilled in
+designing scalable APIs, LLM-driven chatbots, recommender systems, OCR pipelines, and eKYC
+solutions for industries such as finance, automotive, and telecommunications. Passionate about
+applying AI to solve real-world problems and optimize business processes.
+Skills & Expertise
+• Machine Learning & AI: LLMs (OpenAI, Ollama, LlamaIndex), NLP, Recommendation
+Systems, Deep Learning, Image Processing, OCR, Face Recognition, Object Detection,
+Image Segmentation, Agentic AI, Vision LLM, Function Calling, RAG.
+• Tools & Frameworks: TensorFlow, PyTorch, PaddlePaddle, Scikit-learn, OpenCV, SpaCy,
+FastAPI, Flask, Docker, Android Studio, Alembic, Pinecone.
+• Tech Stack: Python, REST APIs, SQL, Git, Postman, tensorflow, torch, huggingface.
+• Deployment & Ops: Docker, GPU Setup, Data Pipeline Automation, Model Serving
+• Soft Skills: Project Leadership, Technical Communication, Agile Development, Cross-
+functional Collaboration
+Professional Experience
+Senior Software Developer / AI Engineer
+Mandrill Tech Sdn Bhd — Kuala Lumpur, Malaysia (Hybrid)
+Nov 2020 – Present
+Leading AI and software engineering initiatives focused on financial technology, biometrics, and
+document intelligence. Responsible for designing intelligent systems, automating business
+workflows, and deploying ML pipelines in production environments.
+Key Contributions:
+• Financial Advisor Chatbot
+◦ Involved in creating the metadata filter for vector search. Created metadata extractor
+that extract metadata to be used in metadata filtering during the vector search. The
+product search from the vector database improved by 15%
+◦ Involved in LLMs and semantic similarity models to automate financial transaction
+tagging.
+◦ Upserting, Vectorizing the financial product data description into VectorDB.
+◦ Involved in migrating the VectorDB from PGvector to Pinecone.
+◦ Automate the schema migration for the the chat database.
+◦ Involved in deployment into SIT, UAT environment.
+• Bank Transaction Classification
+◦ Applied LLMs which is BERT and comparing the performance with traditional RNN
+model which is LSTM to automate financial transaction tagging. Result showed
+BERT model outperforms LSTM just by 2%
+◦ Improved categorization accuracy by over 30% and enhanced downstream expense
+insights for users.
+• Financial Product Recommendation System
+◦ Designed hybrid rule-based and score-based recommendation engines for:
+▪ Credit card selection (cashback, points).
+▪ Refinancing eligibility based on DSR.
+▪ Insurance products based on age and financial risk profiles.
+◦ Helped improve financial literacy and user conversion rates for clients.
+• Financial Mathematical Framework (FMF) API
+◦ Developed a financial analytics engine that computes user-level financial health
+metrics over time.
+◦ Exposed via FastAPI and integrated with banking dashboards.
+• NER Pipeline for Textual Financial Data
+◦ Generated, labeled, and trained NER models to extract entities such as bank names,
+loan types, and monetary values from user chats and scanned documents.
+• eKYC System Development
+◦ Built a complete KYC verification pipeline using:
+▪ Document segmentation.
+▪ Landmark Detection
+▪ Liveliness detection
+▪ Face detection and facial matching with landmark analysis.
+▪ Blur/glare detection for document quality checks.
+▪ OCR for national ID/passport verification (MRZ parsing).
+◦ Integrated with client onboarding platforms and passed accuracy benchmarks.
+• Mobile OCR App PoC
+◦ Built an Android proof-of-concept to scan and read utility meter readings offline
+using embedded TensorFlow Lite OCR models.
+• Traffic Violation Detection System
+◦ Developed deep learning models for red-light detection, vehicle tracking, and license
+plate OCR from CCTV feeds.
+◦ Reduced false positives using image quality heuristics and temporal consistency.
+• Annotation Tooling and Workflow Automation
+◦ Created Python scripts for semi-automated annotation using weak supervision,
+boosting dataset creation speed.
+• GPU Environment Setup
+◦ Deployed Dockerized GPU environments for model training.
+◦ Reduced training time by 40% through optimization techniques (mixed precision,
+data parallelism).
+• Schema Migration Tooling
+◦ Wrote database migration scripts to manage PostgreSQL schema changes for ML-
+integrated applications.
+AI Engineer (Freelance)
+Hexamatics Servcomm Sdn Bhd — Remote
+May 2024 – Nov 2024
+Focused on large language model (LLM) applications and enterprise automation for internal HR
+and policy management.
+Key Contributions:
+• RAG-Based HR Chatbot
+◦ Architected a Retrieval-Augmented Generation (RAG) chatbot using OpenAI,
+LangChain, and LlamaIndex.
+◦ Enabled HR policy retrieval from internal SOPs and documents using semantic
+search.
+◦ Built a user-facing FastAPI and Streamlit interface for live queries.
+• Query Expansion & Intent Routing
+◦ Designed NLP pipelines to identify user intent and route queries to appropriate
+response sources.
+◦ Improved answer relevance and lowered fallback rate significantly.
+• Document Chunking & Indexing
+◦ Optimized document chunking strategy for context preservation and accurate
+semantic retrieval.
+AI Engineer (Freelance)
+Popsical Karaoke Sdn Bhd — Remote
+May 2021 – Nov 2021
+Delivered recommendation algorithms and analytics tools to personalize the user experience on a
+karaoke streaming platform.
+Key Contributions:
+• Music Recommendation Engine
+◦ Developed hybrid recommenders combining collaborative filtering, content features,
+and popularity metrics.
+◦ Tracked user-item interactions and built vector embeddings for similarity scoring.
+• Behavioral Data Analysis
+◦ Conducted in-depth exploratory data analysis (EDA) to identify user churn, peak
+activity times, and genre preferences.
+• Behavioral Data Analysis
+◦ Conducted in-depth exploratory data analysis (EDA) to identify user churn, peak
+activity times, and genre preferences.
+• API Development
+◦ Developed API for the recommendation system using FastAPI.
+◦ Run test for inference speed for single and concurrent requests.
+Machine Learning Engineer
+Blinkware Tech Sdn Bhd — Kuala Lumpur, Malaysia
+Sept 2019 – Apr 2020
+Worked on computer vision-based safety systems, industrial quality control, and real-time detection
+systems for automotive and food industries.
+Key Contributions:
+• Driver Fatigue Detection
+◦ Built MobileNet-SSD and OpenCV-based fatigue detection for real-time blink/eye
+closure monitoring.
+◦ Increased road safety awareness in collaboration with transport sector clients.
+• Dental Image Segmentation
+◦ Trained deep learning models for tooth and cavity segmentation using U-Net.
+◦ Used in a dental imaging product to assist in diagnostics.
+• Packaging Inspection with OCR
+◦ Implemented OCR + object detection to verify batch codes and expiry dates on
+cereal boxes.
+◦ Enabled quality control via visual inspection automation.
+• Color Clustering for Quality Control
+◦ Used K-Means and color histograms to classify packaging colors and detect
+inconsistencies.
+Education
+Master of Computer Science
+Universiti Teknologi MARA (UiTM) — 2018–2020
+GPA: 3.60
+Bachelor of Microelectronic Engineering
+Universiti Malaysia Perlis (UniMAP)
+Publications
+Comparing MobileNet-SSD and YOLO v3 Learning Architecture for Real-Time Driver's
+Fatigue Detection
+International Journal of Academic Research in Business and Social Sciences (IJARBSS) — Dec
+2021
+View Publication
+Achievements
+• Best Paper Award – CSSR 2020 (Logistics & Transportation Track)
+• Faculty Postgraduate Award – Universiti Teknologi MARA (GPA: 3.79)
+
+github : https://github.com/ryezaku
+linkedin: https://www.linkedin.com/in/mohammad-haziq-mohd-fadhil-a517b8108/
